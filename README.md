@@ -49,4 +49,4 @@ LinkedIn:
 
 ---
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&repo=UNLP&show_owner=true&theme=aura)]([https://github.com/anuraghazra/github-readme-stats](https://github.com/valennaguirre/UNLP))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&repo=UNLP&show_owner=true&theme=aura)](https://github.com/valennaguirre/UNLP)
