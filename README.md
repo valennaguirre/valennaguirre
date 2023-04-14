@@ -47,6 +47,14 @@ LinkedIn:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=valennaguirre&show_icons=true&include_all_commits=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
----
+<h2 align="center">Facultad</h2>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&repo=UNLP&show_owner=true&theme=aura)](https://github.com/valennaguirre/UNLP)
+<div align="center">
+    <h3>Segundo Año</h3>
+    <a href="https://github.com/valennaguirre/AyED">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&repo=AyED&theme=aura" />
+    </a>  
+    <a href="https://github.com/valennaguirre/FOD">
+      <img height="100px" src="https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&repo=FOD&theme=aura" />
+    </a> 
+</div>
