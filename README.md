@@ -4,7 +4,7 @@
 
 ¡Hola! 👋
 <div id="header" align="center">
-  <img src= "https://media.giphy.com/media/Ane45y5p7y0HZokoBw/giphy.gif" width="100"/>
+  <img src= "https://media.giphy.com/media/Ane45y5p7y0HZokoBw/giphy.gif" width="400"/>
 </div>
 
 ---
