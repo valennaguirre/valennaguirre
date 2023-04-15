@@ -51,10 +51,13 @@ LinkedIn:
 
 <div align="center">
     <h3>Segundo Año</h3>
-    <a href="https://github.com/anuraghazra/convoychat">
+    <a href="https://github.com/valennaguirre/AyED">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&theme=aura&repo=AyED" />
     </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <a href="https://github.com/valennaguirre/FOD">
       <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&theme=tokyonight&repo=FOD" />
     </a>
+    <a href="https://github.com/valennaguirre/CADP">
+      <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=valennaguirre&theme=midnight-purple&repo=CADP" />
+    </a>  
 </div>
