@@ -2,7 +2,7 @@
 ###
 ![](https://komarev.com/ghpvc/?username=valennaguirre)
 
-¡Hola! 👋
+Hola, soy Valentín Aguirre 👋
 
 ---
 
